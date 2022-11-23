@@ -50,7 +50,7 @@ class Memo {
 
     @Override
     public String toString() {
-        return "메모{" + "번호 : " + Num + ", 이름 : " + Name + ", 비밀번호 : " + Password + ", 내용 :" + Content + '}';
+        return "메모{" + "번호 : " + Num + ", 이름 : " + Name + ", 내용 :" + Content + '}';
     }
 }
 class MemoInput {

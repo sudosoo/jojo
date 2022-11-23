@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e97c988-3223-42ef-bbc8-72f4fd63e842" name="Changes" comment="main commit" />
+    <list default="true" id="7e97c988-3223-42ef-bbc8-72f4fd63e842" name="Changes" comment="main commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Meno.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Memo.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -84,6 +87,8 @@
       <workItem from="1669184063502" duration="2639000" />
       <workItem from="1669205279950" duration="4720000" />
       <workItem from="1669210364829" duration="186000" />
+      <workItem from="1669212324912" duration="373000" />
+      <workItem from="1669212805987" duration="51000" />
     </task>
     <task id="LOCAL-00001" summary="new update 생성">
       <created>1669183177432</created>
