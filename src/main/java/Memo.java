@@ -113,42 +113,63 @@ class MemoInput {
                     break;
                 case 4:
                     System.out.print(" - 삭제할 메모 번호를 입력하세요 : ");
-                    int delete = Integer.parseInt(sc.next());
-                    boolean isDelete = false;
+                    int deleteNum = Integer.parseInt(sc.next());
+                    boolean isDeleteNum = false;
                     for (int i = 0; i < list.size(); i++) {
-                        if (list.get(i).getNum()==delete) {
-                            list.remove(i);
-                            System.out.println("메모를 삭제했습니다");
-                            isDelete = true;
+                        if (list.get(i).getNum()== deleteNum) {
+                            System.out.println(list.get(i));
+                            System.out.println("비밀번호를 입력해주세요");
+                            isDeleteNum = true;
+                            int delete = Integer.parseInt(sc.next());
+                            boolean isDelete = false;
+                            if (list.get(i).getPassword()==delete) {
+                                list.remove(i);
+                                System.out.println("메모를 삭제했습니다");
+                                isDelete = true;
+                            } else {
+                                System.out.println("잘못된 비밀번호 입니다.");
+                                break;
+                            }
                         }
                     }
-                    if (!isDelete) System.out.println("해당 메모는 존재하지 않습니다");
+                    if (!isDeleteNum) System.out.println("해당 메모는 존재하지 않습니다");
                     break;
+
 
                 case 5:
                     System.out.print(" - 수정할 메모의 번호를 입력하세요 : ");
-                    int edit = Integer.parseInt(sc.next());
-                    boolean isEdit = false;
+                    int editNum = Integer.parseInt(sc.next());
+                    boolean isEditNum = false;
                     for (int i = 0; i < list.size(); i++) {
-                        if (list.get(i).getNum()==edit) {
-                            System.out.println("메모를 수정하겠습니다");
-
-                            System.out.print(" - 수정할 메모 내용을 입력하세요 : ");
-                            String Content2 = sc.next();
-                            list.get(i).setContent(Content2);
-
-                            System.out.println("메모 수정이 완료되었습니다");
-                            isEdit = true;
-
-                            System.out.println("❗️수정된 메모 확인❗️");
+                        if (list.get(i).getNum()==editNum) {
                             System.out.println(list.get(i));
-                            System.out.println();
+                            System.out.println("비밀번호를 입력해주세요");
+                            isEditNum = true;
+                            int edit = Integer.parseInt(sc.next());
+                            boolean isEdit = false;
 
+                            if (list.get(i).getPassword() == edit) {
+                                System.out.println("메모를 수정하겠습니다");
+
+
+                                System.out.print(" - 수정할 메모 내용을 입력하세요 : ");
+                                String Content2 = sc.next();
+                                list.get(i).setContent(Content2);
+
+                                System.out.println("메모 수정이 완료되었습니다");
+                                isEdit = true;
+
+                                System.out.println("❗️수정된 메모 확인❗️");
+                                System.out.println(list.get(i));
+                                System.out.println();
+                            } else {
+                                System.out.println("잘못된 비밀번호 입니다.");
+                                break;
+                            }
                         }
                     }
-                    if (!isEdit) System.out.println("등록된 메모가 없습니다.");
+                    if (!isEditNum) System.out.println("등록된 메모가 없습니다.");
                     break;
-
                 default:
                     System.out.println("잘못된 입력입니다. 다시 입력해주세요.");
             }
