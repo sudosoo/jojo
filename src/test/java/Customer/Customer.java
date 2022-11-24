@@ -70,7 +70,7 @@ public class Customer {
                         String customerName = sc.next();
                         Customer sumname = new Customer(bankName, customerName);
                         nameArr.add(sumname);
-                        System.out.println(nameArr);
+                        System.out.println(nameArr); // ===================================== 현재 오류 부분 입니다
                                     while (true) {
                                         System.out.println(" -----------메모작성 프로그램---------------- ");
                                         System.out.println("| 1.입금   2.출금  3.잔고확인  4.처음으로 돌아가기ㅣ");

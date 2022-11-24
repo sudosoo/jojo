@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9add572e-1dcc-4e90-ae4a-d92fbe14881c" name="Changes" comment="commit test">
-      <change afterPath="$PROJECT_DIR$/src/test/java/Customer/Customer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/customer/customer.java" beforeDir="false" />
+    <list default="true" id="9add572e-1dcc-4e90-ae4a-d92fbe14881c" name="Changes" comment="soo v0.1">
+      <change beforePath="$PROJECT_DIR$/src/test/java/Customer/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Customer/Customer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +28,7 @@
     <option name="BRANCH" value="origin/feat/soo" />
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="PUSH_TAGS">
       <GitPushTagMode>
         <option name="argument" value="--tags" />
@@ -144,7 +141,7 @@
       <workItem from="1669267750812" duration="656000" />
       <workItem from="1669268411578" duration="2456000" />
       <workItem from="1669271535817" duration="11902000" />
-      <workItem from="1669284129339" duration="10000" />
+      <workItem from="1669284129339" duration="233000" />
     </task>
     <task id="LOCAL-00001" summary="customer 생성">
       <created>1669262712475</created>
@@ -181,7 +178,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669269076673</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="soo v0.1">
+      <created>1669284150733</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1669284150733</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -203,7 +207,8 @@
     <MESSAGE value="customer 생성" />
     <MESSAGE value="detail" />
     <MESSAGE value="commit test" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit test" />
+    <MESSAGE value="soo v0.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="soo v0.1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
