@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9add572e-1dcc-4e90-ae4a-d92fbe14881c" name="Changes" comment="customerPassword 추가&#10;작동확인을 위해 기본 계좌값 case 1 로 변경 및 비밀번호 추가&#10;case 3 잔고확인을 위한 계좌번호, 비밀번호 입력 및 잔고확인 기능&#10;case 6 임시 종료">
+    <list default="true" id="9add572e-1dcc-4e90-ae4a-d92fbe14881c" name="Changes" comment="case 3 계좌번호 일치하는게 없을시 메인으로">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/customer/customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/customer/customer.java" afterDir="false" />
     </list>
@@ -222,7 +222,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669276367572</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="case 3 계좌번호 일치하는게 없을시 메인으로">
+      <created>1669284145469</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1669284145469</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -245,6 +252,7 @@
     <MESSAGE value="detail" />
     <MESSAGE value="commit test" />
     <MESSAGE value="customerPassword 추가&#10;작동확인을 위해 기본 계좌값 case 1 로 변경 및 비밀번호 추가&#10;case 3 잔고확인을 위한 계좌번호, 비밀번호 입력 및 잔고확인 기능&#10;case 6 임시 종료" />
-    <option name="LAST_COMMIT_MESSAGE" value="customerPassword 추가&#10;작동확인을 위해 기본 계좌값 case 1 로 변경 및 비밀번호 추가&#10;case 3 잔고확인을 위한 계좌번호, 비밀번호 입력 및 잔고확인 기능&#10;case 6 임시 종료" />
+    <MESSAGE value="case 3 계좌번호 일치하는게 없을시 메인으로" />
+    <option name="LAST_COMMIT_MESSAGE" value="case 3 계좌번호 일치하는게 없을시 메인으로" />
   </component>
 </project>
