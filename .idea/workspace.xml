@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9add572e-1dcc-4e90-ae4a-d92fbe14881c" name="Changes" comment="error patch fail">
+      <change afterPath="$PROJECT_DIR$/src/test/java/Customer/Cmain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Customer/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Customer/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Customer/Customer.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +73,20 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.project.gradle&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Customer.Customer">
+  <component name="RunManager" selected="Application.Cmain">
+    <configuration name="Cmain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Customer.Cmain" />
+      <module name="bank.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Customer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Customer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="customer.Customer" />
       <module name="bank.main" />
@@ -91,7 +105,7 @@
       <module name="bank.test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Customer.*" />
+          <option name="PATTERN" value="Customer.Customer" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,11 +134,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Cmain" />
         <item itemvalue="Application.Customer.Customer" />
         <item itemvalue="Application.Customer" />
         <item itemvalue="Application.MemoInput" />
         <item itemvalue="Application.customer" />
-        <item itemvalue="Application.MemoInput" />
       </list>
     </recent_temporary>
   </component>
@@ -142,7 +156,7 @@
       <workItem from="1669267750812" duration="656000" />
       <workItem from="1669268411578" duration="2456000" />
       <workItem from="1669271535817" duration="11902000" />
-      <workItem from="1669284129339" duration="2389000" />
+      <workItem from="1669284129339" duration="7698000" />
     </task>
     <task id="LOCAL-00001" summary="customer 생성">
       <created>1669262712475</created>
@@ -193,7 +207,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669284444370</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="error patch fail">
+      <created>1669286823525</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1669286823525</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
