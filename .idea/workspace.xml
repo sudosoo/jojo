@@ -4,12 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-<<<<<<< HEAD
-    <list default="true" id="9add572e-1dcc-4e90-ae4a-d92fbe14881c" name="Changes" comment="">
-=======
-    <list default="true" id="7e97c988-3223-42ef-bbc8-72f4fd63e842" name="Changes" comment="final ..final">
->>>>>>> c3fd00649de49e4c4c1883e4920e4fb1b10bb684
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="9add572e-1dcc-4e90-ae4a-d92fbe14881c" name="Changes" comment="commit test">
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Memo/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Memo/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Memo/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Memo/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Memo/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Memo/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Memo/homework/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Memo/homework/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Memo/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Memo/src/main/java/ArrayListFirstLastIndex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Memo/src/main/java/Memo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/customer/customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/customer/customer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,7 +36,6 @@
       </list>
     </option>
   </component>
-<<<<<<< HEAD
   <component name="Git.Merge.Settings">
     <option name="BRANCH" value="origin/feat/soo" />
   </component>
@@ -44,36 +51,28 @@
         <entry key="$PROJECT_DIR$" value="feat/soo" />
       </map>
     </option>
-=======
-  <component name="Git.Settings">
-    <option name="PUSH_TAGS">
-      <GitPushTagMode>
-        <option name="argument" value="--follow-tags" />
-        <option name="title" value="Current Branch" />
-      </GitPushTagMode>
-    </option>
->>>>>>> c3fd00649de49e4c4c1883e4920e4fb1b10bb684
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubProjectSettings">
+    <option name="branchProtectionPatterns">
+      <list>
+        <option value="main" />
+      </list>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-<<<<<<< HEAD
   <component name="ProjectId" id="2HyWcNOVsK5CLJvXItHVWaF6VBL" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-=======
-  <component name="ProjectId" id="2Hw1OOOVFvbQkfDQ7GWBcPZieqk" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
+    <OptionsSetting value="false" id="Update" />
   </component>
->>>>>>> c3fd00649de49e4c4c1883e4920e4fb1b10bb684
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
-<<<<<<< HEAD
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
@@ -84,24 +83,10 @@
   <component name="RunManager" selected="Application.customer">
     <configuration name="MemoInput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MemoInput" />
-=======
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/soo/jojo&quot;
-  }
-}</component>
-  <component name="RunManager" selected="Application.MemoInput">
-    <configuration name="ArrayListFirstLastIndex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArrayListFirstLastIndex" />
-      <module name="untitled.main" />
->>>>>>> c3fd00649de49e4c4c1883e4920e4fb1b10bb684
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-<<<<<<< HEAD
     <configuration name="customer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="customer.customer" />
       <module name="bank.main" />
@@ -111,33 +96,22 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-=======
-    <configuration name="MemoInput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MemoInput" />
-      <module name="untitled.main" />
->>>>>>> c3fd00649de49e4c4c1883e4920e4fb1b10bb684
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-<<<<<<< HEAD
         <item itemvalue="Application.MemoInput" />
         <item itemvalue="Application.customer" />
         <item itemvalue="Application.MemoInput" />
         <item itemvalue="Application.customer" />
-=======
-        <item itemvalue="Application.ArrayListFirstLastIndex" />
-        <item itemvalue="Application.MemoInput" />
->>>>>>> c3fd00649de49e4c4c1883e4920e4fb1b10bb684
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-<<<<<<< HEAD
       <changelist id="9add572e-1dcc-4e90-ae4a-d92fbe14881c" name="Changes" comment="" />
       <created>1669257883119</created>
       <option name="number" value="Default" />
@@ -147,7 +121,7 @@
       <workItem from="1669262519795" duration="13000" />
       <workItem from="1669262662325" duration="2922000" />
       <workItem from="1669267750812" duration="656000" />
-      <workItem from="1669268411578" duration="9000" />
+      <workItem from="1669268411578" duration="634000" />
     </task>
     <task id="LOCAL-00001" summary="customer 생성">
       <created>1669262712475</created>
@@ -170,57 +144,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669267355522</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
-=======
-      <changelist id="7e97c988-3223-42ef-bbc8-72f4fd63e842" name="Changes" comment="" />
-      <created>1669181298812</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1669181298812</updated>
-      <workItem from="1669184063502" duration="2639000" />
-      <workItem from="1669205279950" duration="4720000" />
-      <workItem from="1669210364829" duration="186000" />
-      <workItem from="1669212324912" duration="373000" />
-      <workItem from="1669212805987" duration="408000" />
-      <workItem from="1669256132249" duration="854000" />
-    </task>
-    <task id="LOCAL-00001" summary="new update 생성">
-      <created>1669183177432</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1669183177432</updated>
-    </task>
-    <task id="LOCAL-00002" summary="메뉴 생성 및 딜리트 파일생성">
-      <created>1669185099795</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1669185099795</updated>
-    </task>
-    <task id="LOCAL-00003" summary="main commit">
-      <created>1669210409262</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1669210409262</updated>
-    </task>
-    <task id="LOCAL-00004" summary="final">
-      <created>1669212874739</created>
+    <task id="LOCAL-00004" summary="detail">
+      <created>1669268479946</created>
       <option name="number" value="00004" />
       <option name="presentableId" value="LOCAL-00004" />
       <option name="project" value="LOCAL" />
-      <updated>1669212874739</updated>
+      <updated>1669268479946</updated>
     </task>
-    <task id="LOCAL-00005" summary="final ..final">
-      <created>1669213007388</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1669213007388</updated>
-    </task>
-    <option name="localTasksCounter" value="6" />
->>>>>>> c3fd00649de49e4c4c1883e4920e4fb1b10bb684
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -238,17 +169,10 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-<<<<<<< HEAD
     <MESSAGE value="Customer 생성" />
     <MESSAGE value="customer 생성" />
-    <option name="LAST_COMMIT_MESSAGE" value="customer 생성" />
-=======
-    <MESSAGE value="new update 생성" />
-    <MESSAGE value="메뉴 생성 및 딜리트 파일생성" />
-    <MESSAGE value="main commit" />
-    <MESSAGE value="final" />
-    <MESSAGE value="final ..final" />
-    <option name="LAST_COMMIT_MESSAGE" value="final ..final" />
->>>>>>> c3fd00649de49e4c4c1883e4920e4fb1b10bb684
+    <MESSAGE value="detail" />
+    <MESSAGE value="commit test" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit test" />
   </component>
 </project>

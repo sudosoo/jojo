@@ -3,7 +3,6 @@ package customer;
 import java.time.LocalDateTime;
 import java.util.ArrayList;
 import java.util.Scanner;
-
 public class customer {
     String customerName;
     int customerAccount;
