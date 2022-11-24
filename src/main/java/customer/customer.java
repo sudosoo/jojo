@@ -58,6 +58,8 @@ public class customer {
 
                     customer n = new customer("홍길동",232,2223,"입금", 1234);
                     customer.add(n);
+                    customer b = new customer("김이박",323,1112,"입금", 4321);
+                    customer.add(b);
 
                     break;
 
@@ -79,6 +81,7 @@ public class customer {
                     for (int i = 0; i < customer.size(); i++){
                         if (customer.get(i).getCustomerAccount()==findAccount){
                             System.out.println("비밀번호를 입력해주세요.");
+                            isFind = true;
                             int findPassword = Integer.parseInt(sc.next());
                             if (customer.get(i).getCustomerPassword()==findPassword){
                                 System.out.println(customer.get(i));
@@ -89,7 +92,7 @@ public class customer {
 
                         }
                     }
-
+                    if (!isFind) System.out.println("존재하지 않는 계좌번호 입니다.");
                     break;
             }
         }

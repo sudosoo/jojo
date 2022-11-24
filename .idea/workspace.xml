@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9add572e-1dcc-4e90-ae4a-d92fbe14881c" name="Changes" comment="commit test">
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2022_11_24_2_24_PM__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2022_11_24_2_24_PM__Changes_.xml" afterDir="false" />
+    <list default="true" id="9add572e-1dcc-4e90-ae4a-d92fbe14881c" name="Changes" comment="customerPassword 추가&#10;작동확인을 위해 기본 계좌값 case 1 로 변경 및 비밀번호 추가&#10;case 3 잔고확인을 위한 계좌번호, 비밀번호 입력 및 잔고확인 기능&#10;case 6 임시 종료">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/customer/customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/customer/customer.java" afterDir="false" />
     </list>
@@ -218,7 +215,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669268479946</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="customerPassword 추가&#10;작동확인을 위해 기본 계좌값 case 1 로 변경 및 비밀번호 추가&#10;case 3 잔고확인을 위한 계좌번호, 비밀번호 입력 및 잔고확인 기능&#10;case 6 임시 종료">
+      <created>1669276367572</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1669276367572</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -240,6 +244,7 @@
     <MESSAGE value="customer 생성" />
     <MESSAGE value="detail" />
     <MESSAGE value="commit test" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit test" />
+    <MESSAGE value="customerPassword 추가&#10;작동확인을 위해 기본 계좌값 case 1 로 변경 및 비밀번호 추가&#10;case 3 잔고확인을 위한 계좌번호, 비밀번호 입력 및 잔고확인 기능&#10;case 6 임시 종료" />
+    <option name="LAST_COMMIT_MESSAGE" value="customerPassword 추가&#10;작동확인을 위해 기본 계좌값 case 1 로 변경 및 비밀번호 추가&#10;case 3 잔고확인을 위한 계좌번호, 비밀번호 입력 및 잔고확인 기능&#10;case 6 임시 종료" />
   </component>
 </project>
