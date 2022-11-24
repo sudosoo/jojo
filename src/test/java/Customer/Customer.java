@@ -34,15 +34,16 @@ public class Customer {
         this.check = check;
         this.time = LocalDateTime.now();
     }
-    public Customer(String bankName,String customerName) {
+    public Customer(String bankName,String customerName,LocalDateTime time) {
         this.customerName = customerName;
         this.bankName = bankName;
+        this.time = time;
     }
 
 
     public String toString() {
 
-        return "{" +"은행명"+ bankName + "성 명 : " + customerName + ", 계좌번호 : " + customerAccount + ", 잔 고 :" + customerTotal +", "+ check +"시간 :"+time.format(DateTimeFormatter.ofPattern("yyyy-MM-dd/HH시mm분ss초"))+ '}';
+        return "{" +"은행명"+ bankName + "성 명 : " + customerName + ", 계좌번호 : " + customerAccount + ", 잔 고 :" + customerTotal +", "+ check +" 시간 :"+time.format(DateTimeFormatter.ofPattern("yyyy-MM-dd/HH시mm분ss초"))+ '}';
 }
 
     public static void main(String[] args) {
@@ -68,9 +69,9 @@ public class Customer {
                         String bankName = s == 1 ? "Ka" : s == 2 ? "Nh" : s == 3 ? "Kb" : s == 4 ? "Sh" : "올바른 숫자를 입력 해주세요";
                         System.out.println(" -----------사용자 이름을 말씀해 해주세요.---------------- ");
                         String customerName = sc.next();
-                        Customer sumname = new Customer(bankName, customerName);
+                        Customer sumname = new Customer(bankName, customerName,t);
                         nameArr.add(sumname);
-                        System.out.println(nameArr); // ===================================== 현재 오류 부분 입니다
+                        System.out.println(nameArr);
                                     while (true) {
                                         System.out.println(" -----------메모작성 프로그램---------------- ");
                                         System.out.println("| 1.입금   2.출금  3.잔고확인  4.처음으로 돌아가기ㅣ");
