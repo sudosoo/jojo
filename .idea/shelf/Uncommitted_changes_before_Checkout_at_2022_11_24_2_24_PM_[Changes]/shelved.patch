@@ -1,0 +1,189 @@
+Index: ../../Bank/bank/.idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"AutoImportSettings\">\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\n  </component>\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"7e97c988-3223-42ef-bbc8-72f4fd63e842\" name=\"Changes\" comment=\"final ..final\">\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\n    </list>\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"ExternalProjectsData\">\n    <projectState path=\"$PROJECT_DIR$\">\n      <ProjectState />\n    </projectState>\n  </component>\n  <component name=\"FileTemplateManagerImpl\">\n    <option name=\"RECENT_TEMPLATES\">\n      <list>\n        <option value=\"Class\" />\n      </list>\n    </option>\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"PUSH_TAGS\">\n      <GitPushTagMode>\n        <option name=\"argument\" value=\"--follow-tags\" />\n        <option name=\"title\" value=\"Current Branch\" />\n      </GitPushTagMode>\n    </option>\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n  </component>\n  <component name=\"MarkdownSettingsMigration\">\n    <option name=\"stateVersion\" value=\"1\" />\n  </component>\n  <component name=\"ProjectId\" id=\"2Hw1OOOVFvbQkfDQ7GWBcPZieqk\" />\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\">\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\n  </component>\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\">{\n  &quot;keyToString&quot;: {\n    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,\n    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,\n    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,\n    &quot;last_opened_file_path&quot;: &quot;/Users/soo/jojo&quot;\n  }\n}</component>\n  <component name=\"RunManager\" selected=\"Application.MemoInput\">\n    <configuration name=\"ArrayListFirstLastIndex\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\n      <option name=\"MAIN_CLASS_NAME\" value=\"ArrayListFirstLastIndex\" />\n      <module name=\"untitled.main\" />\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <configuration name=\"MemoInput\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\n      <option name=\"MAIN_CLASS_NAME\" value=\"MemoInput\" />\n      <module name=\"untitled.main\" />\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <recent_temporary>\n      <list>\n        <item itemvalue=\"Application.ArrayListFirstLastIndex\" />\n        <item itemvalue=\"Application.MemoInput\" />\n      </list>\n    </recent_temporary>\n  </component>\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"7e97c988-3223-42ef-bbc8-72f4fd63e842\" name=\"Changes\" comment=\"\" />\n      <created>1669181298812</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1669181298812</updated>\n      <workItem from=\"1669184063502\" duration=\"2639000\" />\n      <workItem from=\"1669205279950\" duration=\"4720000\" />\n      <workItem from=\"1669210364829\" duration=\"186000\" />\n      <workItem from=\"1669212324912\" duration=\"373000\" />\n      <workItem from=\"1669212805987\" duration=\"408000\" />\n      <workItem from=\"1669256132249\" duration=\"854000\" />\n    </task>\n    <task id=\"LOCAL-00001\" summary=\"new update 생성\">\n      <created>1669183177432</created>\n      <option name=\"number\" value=\"00001\" />\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1669183177432</updated>\n    </task>\n    <task id=\"LOCAL-00002\" summary=\"메뉴 생성 및 딜리트 파일생성\">\n      <created>1669185099795</created>\n      <option name=\"number\" value=\"00002\" />\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1669185099795</updated>\n    </task>\n    <task id=\"LOCAL-00003\" summary=\"main commit\">\n      <created>1669210409262</created>\n      <option name=\"number\" value=\"00003\" />\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1669210409262</updated>\n    </task>\n    <task id=\"LOCAL-00004\" summary=\"final\">\n      <created>1669212874739</created>\n      <option name=\"number\" value=\"00004\" />\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1669212874739</updated>\n    </task>\n    <task id=\"LOCAL-00005\" summary=\"final ..final\">\n      <created>1669213007388</created>\n      <option name=\"number\" value=\"00005\" />\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1669213007388</updated>\n    </task>\n    <option name=\"localTasksCounter\" value=\"6\" />\n    <servers />\n  </component>\n  <component name=\"TypeScriptGeneratedFilesManager\">\n    <option name=\"version\" value=\"3\" />\n  </component>\n  <component name=\"Vcs.Log.Tabs.Properties\">\n    <option name=\"TAB_STATES\">\n      <map>\n        <entry key=\"MAIN\">\n          <value>\n            <State />\n          </value>\n        </entry>\n      </map>\n    </option>\n  </component>\n  <component name=\"VcsManagerConfiguration\">\n    <MESSAGE value=\"new update 생성\" />\n    <MESSAGE value=\"메뉴 생성 및 딜리트 파일생성\" />\n    <MESSAGE value=\"main commit\" />\n    <MESSAGE value=\"final\" />\n    <MESSAGE value=\"final ..final\" />\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"final ..final\" />\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../../Bank/bank/.idea/workspace.xml b/../../Bank/bank/.idea/workspace.xml
+--- a/../../Bank/bank/.idea/workspace.xml	(revision c3fd00649de49e4c4c1883e4920e4fb1b10bb684)
++++ b/../../Bank/bank/.idea/workspace.xml	(date 1669267439499)
+@@ -4,9 +4,7 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="7e97c988-3223-42ef-bbc8-72f4fd63e842" name="Changes" comment="final ..final">
+-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-    </list>
++    <list default="true" id="9add572e-1dcc-4e90-ae4a-d92fbe14881c" name="Changes" comment="customer 생성" />
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -27,105 +25,96 @@
+   <component name="Git.Settings">
+     <option name="PUSH_TAGS">
+       <GitPushTagMode>
+-        <option name="argument" value="--follow-tags" />
+-        <option name="title" value="Current Branch" />
++        <option name="argument" value="--tags" />
++        <option name="title" value="All" />
+       </GitPushTagMode>
++    </option>
++    <option name="RECENT_BRANCH_BY_REPOSITORY">
++      <map>
++        <entry key="$PROJECT_DIR$" value="main" />
++      </map>
+     </option>
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+   </component>
+   <component name="MarkdownSettingsMigration">
+     <option name="stateVersion" value="1" />
+   </component>
+-  <component name="ProjectId" id="2Hw1OOOVFvbQkfDQ7GWBcPZieqk" />
+-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+-    <ConfirmationsSetting value="2" id="Add" />
+-  </component>
++  <component name="ProjectId" id="2HyWcNOVsK5CLJvXItHVWaF6VBL" />
++  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+   <component name="ProjectViewState">
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+   </component>
+-  <component name="PropertiesComponent">{
+-  &quot;keyToString&quot;: {
+-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+-    &quot;last_opened_file_path&quot;: &quot;/Users/soo/jojo&quot;
++  <component name="PropertiesComponent"><![CDATA[{
++  "keyToString": {
++    "WebServerToolWindowFactoryState": "false",
++    "nodejs_package_manager_path": "npm",
++    "project.structure.last.edited": "Modules",
++    "project.structure.proportion": "0.15",
++    "project.structure.side.proportion": "0.2"
+   }
+-}</component>
+-  <component name="RunManager" selected="Application.MemoInput">
+-    <configuration name="ArrayListFirstLastIndex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+-      <option name="MAIN_CLASS_NAME" value="ArrayListFirstLastIndex" />
+-      <module name="untitled.main" />
++}]]></component>
++  <component name="RunManager" selected="Application.customer">
++    <configuration name="MemoInput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
++      <option name="MAIN_CLASS_NAME" value="MemoInput" />
+       <method v="2">
+         <option name="Make" enabled="true" />
+       </method>
+     </configuration>
+-    <configuration name="MemoInput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+-      <option name="MAIN_CLASS_NAME" value="MemoInput" />
+-      <module name="untitled.main" />
++    <configuration name="customer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
++      <option name="MAIN_CLASS_NAME" value="customer.customer" />
++      <module name="bank.main" />
++      <extension name="coverage">
++        <pattern>
++          <option name="PATTERN" value="customer.*" />
++          <option name="ENABLED" value="true" />
++        </pattern>
++      </extension>
+       <method v="2">
+         <option name="Make" enabled="true" />
+       </method>
+     </configuration>
+     <recent_temporary>
+       <list>
+-        <item itemvalue="Application.ArrayListFirstLastIndex" />
+         <item itemvalue="Application.MemoInput" />
++        <item itemvalue="Application.customer" />
+       </list>
+     </recent_temporary>
+   </component>
+   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+   <component name="TaskManager">
+     <task active="true" id="Default" summary="Default task">
+-      <changelist id="7e97c988-3223-42ef-bbc8-72f4fd63e842" name="Changes" comment="" />
+-      <created>1669181298812</created>
++      <changelist id="9add572e-1dcc-4e90-ae4a-d92fbe14881c" name="Changes" comment="" />
++      <created>1669257883119</created>
+       <option name="number" value="Default" />
+       <option name="presentableId" value="Default" />
+-      <updated>1669181298812</updated>
+-      <workItem from="1669184063502" duration="2639000" />
+-      <workItem from="1669205279950" duration="4720000" />
+-      <workItem from="1669210364829" duration="186000" />
+-      <workItem from="1669212324912" duration="373000" />
+-      <workItem from="1669212805987" duration="408000" />
+-      <workItem from="1669256132249" duration="854000" />
++      <updated>1669257883119</updated>
++      <workItem from="1669257886369" duration="4600000" />
++      <workItem from="1669262519795" duration="13000" />
++      <workItem from="1669262662325" duration="2830000" />
+     </task>
+-    <task id="LOCAL-00001" summary="new update 생성">
+-      <created>1669183177432</created>
++    <task id="LOCAL-00001" summary="customer 생성">
++      <created>1669262712475</created>
+       <option name="number" value="00001" />
+       <option name="presentableId" value="LOCAL-00001" />
+       <option name="project" value="LOCAL" />
+-      <updated>1669183177432</updated>
++      <updated>1669262712476</updated>
+     </task>
+-    <task id="LOCAL-00002" summary="메뉴 생성 및 딜리트 파일생성">
+-      <created>1669185099795</created>
++    <task id="LOCAL-00002" summary="customer 생성">
++      <created>1669262820641</created>
+       <option name="number" value="00002" />
+       <option name="presentableId" value="LOCAL-00002" />
+       <option name="project" value="LOCAL" />
+-      <updated>1669185099795</updated>
++      <updated>1669262820641</updated>
+     </task>
+-    <task id="LOCAL-00003" summary="main commit">
+-      <created>1669210409262</created>
++    <task id="LOCAL-00003" summary="customer 생성">
++      <created>1669267355522</created>
+       <option name="number" value="00003" />
+       <option name="presentableId" value="LOCAL-00003" />
+       <option name="project" value="LOCAL" />
+-      <updated>1669210409262</updated>
+-    </task>
+-    <task id="LOCAL-00004" summary="final">
+-      <created>1669212874739</created>
+-      <option name="number" value="00004" />
+-      <option name="presentableId" value="LOCAL-00004" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1669212874739</updated>
++      <updated>1669267355522</updated>
+     </task>
+-    <task id="LOCAL-00005" summary="final ..final">
+-      <created>1669213007388</created>
+-      <option name="number" value="00005" />
+-      <option name="presentableId" value="LOCAL-00005" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1669213007388</updated>
+-    </task>
+-    <option name="localTasksCounter" value="6" />
++    <option name="localTasksCounter" value="4" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -143,11 +132,8 @@
+     </option>
+   </component>
+   <component name="VcsManagerConfiguration">
+-    <MESSAGE value="new update 생성" />
+-    <MESSAGE value="메뉴 생성 및 딜리트 파일생성" />
+-    <MESSAGE value="main commit" />
+-    <MESSAGE value="final" />
+-    <MESSAGE value="final ..final" />
+-    <option name="LAST_COMMIT_MESSAGE" value="final ..final" />
++    <MESSAGE value="Customer 생성" />
++    <MESSAGE value="customer 생성" />
++    <option name="LAST_COMMIT_MESSAGE" value="customer 생성" />
+   </component>
+ </project>
+\ No newline at end of file
