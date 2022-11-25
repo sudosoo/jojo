@@ -12,19 +12,11 @@ public class Cmain {
     String check;
     LocalDateTime time;
 
-    public LocalDateTime getTime() {
-        return time;
-    } // 시간기록
-
-    public String getCustomerName() {
-        return customerName; //소유주명
-    }
     public int getCustomerAccount() {
         return customerAccount; // 계좌번호
     }
 
-    public String getBankName() {return bankName; }
-    public String getcheck() {return check;}
+
 
     public Cmain(String customerName, int customerAccount, int customerTotal, String check) {
         this.customerName = customerName;
@@ -43,7 +35,7 @@ public class Cmain {
     public String toString() {
 
         return "{" +"은행명"+ bankName + "성 명 : " + customerName + ", 계좌번호 : " + customerAccount + ", 잔 고 :" + customerTotal +", "+ check +" 시간 :"+time.format(DateTimeFormatter.ofPattern("yyyy-MM-dd/HH시mm분ss초"))+ '}';
-}
+    }
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
@@ -63,7 +55,7 @@ public class Cmain {
                 switch (chose) {
                     case 1:
                         System.out.println(" -----------은행명을 선택 해주세요.---------------- ");
-                        System.out.println("|   1.Ka      2.Nh      3.Kb      4.Sh      |  ");
+                        System.out.println("|   1.Ka      2.Nh      3.Kb      4.Sh      | ");
                         System.out.println(" -------------------------------------------- ");
                         int s = sc.nextInt();
                         String bankName = s == 1 ? "Ka" : s == 2 ? "Nh" : s == 3 ? "Kb" : s == 4 ? "Sh" : "올바른 숫자를 입력 해주세요";
