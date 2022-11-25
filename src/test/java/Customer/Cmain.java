@@ -124,7 +124,7 @@ public class Cmain {
                                     }
                             }
                         }
-                    case 2:  //ㅡㅡㅡㅡ은행
+                    case 2:  //ㅡㅡㅡㅡ은행붙여넣기
                         break;
                 }
 
