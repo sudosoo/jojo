@@ -4,11 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9add572e-1dcc-4e90-ae4a-d92fbe14881c" name="Changes" comment="11.25 update">
-      <change afterPath="$PROJECT_DIR$/src/test/java/Customer/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Customer/Log.java" afterDir="false" />
+    <list default="true" id="9add572e-1dcc-4e90-ae4a-d92fbe14881c" name="Changes" comment="11.25">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Customer/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bank/Bank.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Customer/Cmain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Customer/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Customer/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Customer/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Customer/Log.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Customer/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,6 +69,7 @@
   &quot;keyToString&quot;: {
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;last_directory_selection&quot;: &quot;/Users/soo/jojo/Bank/bank/src/test/java&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/soo/jojo/Bank/bank/src/main/java&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
@@ -74,7 +77,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.project.gradle&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java" />
+      <recent name="$PROJECT_DIR$/src/main/java/Customer" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main (1)">
     <configuration name="Cmain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Customer.Cmain" />
       <module name="bank.test" />
@@ -114,6 +123,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Customer.Main" />
+      <module name="bank.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Customer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Customer.Main" />
       <module name="bank.test" />
@@ -127,19 +149,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MemoInput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MemoInput" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Cmain" />
         <item itemvalue="Application.Customer.Customer" />
         <item itemvalue="Application.Customer" />
-        <item itemvalue="Application.MemoInput" />
       </list>
     </recent_temporary>
   </component>
@@ -159,7 +175,8 @@
       <workItem from="1669271535817" duration="11902000" />
       <workItem from="1669284129339" duration="7869000" />
       <workItem from="1669307740437" duration="1239000" />
-      <workItem from="1669336989164" duration="22246000" />
+      <workItem from="1669336989164" duration="34815000" />
+      <workItem from="1669374328283" duration="6562000" />
     </task>
     <task id="LOCAL-00001" summary="customer 생성">
       <created>1669262712475</created>
@@ -245,7 +262,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669340884558</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="11.25 error update">
+      <created>1669361344746</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1669361344746</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -271,7 +295,8 @@
     <MESSAGE value="error patch fail" />
     <MESSAGE value="break patch" />
     <MESSAGE value="11.25 update" />
-    <option name="LAST_COMMIT_MESSAGE" value="11.25 update" />
+    <MESSAGE value="11.25 error update" />
+    <option name="LAST_COMMIT_MESSAGE" value="11.25 error update" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -279,6 +304,10 @@
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.NullPointerException" package="java.lang" />
           <option name="timeStamp" value="4" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.IndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="52" />
         </breakpoint>
       </breakpoints>
     </breakpoint-manager>
