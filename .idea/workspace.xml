@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9add572e-1dcc-4e90-ae4a-d92fbe14881c" name="Changes" comment="break patch">
+    <list default="true" id="9add572e-1dcc-4e90-ae4a-d92fbe14881c" name="Changes" comment="11.25 update">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/Customer/Cmain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Customer/Cmain.java" afterDir="false" />
     </list>
@@ -157,7 +157,7 @@
       <workItem from="1669271535817" duration="11902000" />
       <workItem from="1669284129339" duration="7869000" />
       <workItem from="1669307740437" duration="1239000" />
-      <workItem from="1669336989164" duration="358000" />
+      <workItem from="1669336989164" duration="3875000" />
     </task>
     <task id="LOCAL-00001" summary="customer 생성">
       <created>1669262712475</created>
@@ -222,7 +222,21 @@
       <option name="project" value="LOCAL" />
       <updated>1669292016297</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="11.25 update">
+      <created>1669337691255</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1669337691255</updated>
+    </task>
+    <task id="LOCAL-00011" summary="11.25 update">
+      <created>1669338364345</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1669338364345</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -247,7 +261,8 @@
     <MESSAGE value="soo v0.1" />
     <MESSAGE value="error patch fail" />
     <MESSAGE value="break patch" />
-    <option name="LAST_COMMIT_MESSAGE" value="break patch" />
+    <MESSAGE value="11.25 update" />
+    <option name="LAST_COMMIT_MESSAGE" value="11.25 update" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
