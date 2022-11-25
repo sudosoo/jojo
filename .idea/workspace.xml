@@ -4,9 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="9add572e-1dcc-4e90-ae4a-d92fbe14881c" name="Changes" comment="break patch">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/Customer/Cmain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Customer/Cmain.java" afterDir="false" />
+=======
+    <list default="true" id="9add572e-1dcc-4e90-ae4a-d92fbe14881c" name="Changes" comment="case 3 계좌번호 일치하는게 없을시 메인으로">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/customer/customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/customer/customer.java" afterDir="false" />
+>>>>>>> c7cb79520b2e7008317dd34d711733a7cebfd382
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +23,37 @@
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="bank" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="bank" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="bank" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -61,6 +98,7 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+<<<<<<< HEAD
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
@@ -112,6 +150,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+=======
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "WebServerToolWindowFactoryState": "false",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.customer">
+>>>>>>> c7cb79520b2e7008317dd34d711733a7cebfd382
     <configuration name="MemoInput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MemoInput" />
       <method v="2">
@@ -131,13 +182,61 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="jojo [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="jojo [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+<<<<<<< HEAD
         <item itemvalue="Application.Cmain" />
         <item itemvalue="Application.Customer.Customer" />
         <item itemvalue="Application.Customer" />
+=======
+        <item itemvalue="Gradle.jojo [build]" />
+        <item itemvalue="Gradle.jojo [clean]" />
         <item itemvalue="Application.MemoInput" />
         <item itemvalue="Application.customer" />
+>>>>>>> c7cb79520b2e7008317dd34d711733a7cebfd382
+        <item itemvalue="Application.MemoInput" />
       </list>
     </recent_temporary>
   </component>
@@ -187,6 +286,7 @@
       <option name="project" value="LOCAL" />
       <updated>1669268479946</updated>
     </task>
+<<<<<<< HEAD
     <task id="LOCAL-00005" summary="commit test">
       <created>1669269076673</created>
       <option name="number" value="00005" />
@@ -223,6 +323,23 @@
       <updated>1669292016297</updated>
     </task>
     <option name="localTasksCounter" value="10" />
+=======
+    <task id="LOCAL-00005" summary="customerPassword 추가&#10;작동확인을 위해 기본 계좌값 case 1 로 변경 및 비밀번호 추가&#10;case 3 잔고확인을 위한 계좌번호, 비밀번호 입력 및 잔고확인 기능&#10;case 6 임시 종료">
+      <created>1669276367572</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1669276367572</updated>
+    </task>
+    <task id="LOCAL-00006" summary="case 3 계좌번호 일치하는게 없을시 메인으로">
+      <created>1669284145469</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1669284145469</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+>>>>>>> c7cb79520b2e7008317dd34d711733a7cebfd382
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -244,6 +361,7 @@
     <MESSAGE value="customer 생성" />
     <MESSAGE value="detail" />
     <MESSAGE value="commit test" />
+<<<<<<< HEAD
     <MESSAGE value="soo v0.1" />
     <MESSAGE value="error patch fail" />
     <MESSAGE value="break patch" />
@@ -262,5 +380,10 @@
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
     <select />
+=======
+    <MESSAGE value="customerPassword 추가&#10;작동확인을 위해 기본 계좌값 case 1 로 변경 및 비밀번호 추가&#10;case 3 잔고확인을 위한 계좌번호, 비밀번호 입력 및 잔고확인 기능&#10;case 6 임시 종료" />
+    <MESSAGE value="case 3 계좌번호 일치하는게 없을시 메인으로" />
+    <option name="LAST_COMMIT_MESSAGE" value="case 3 계좌번호 일치하는게 없을시 메인으로" />
+>>>>>>> c7cb79520b2e7008317dd34d711733a7cebfd382
   </component>
 </project>
