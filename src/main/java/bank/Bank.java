@@ -24,7 +24,7 @@ public class Bank {
         return customerName;
     }
     public void setCustomerName(String customerName) {
-        customerName = customerName;
+        this.customerName = customerName;
     }
     public String getCustomerAccount() {
         return customerAccount;
@@ -33,9 +33,9 @@ public class Bank {
 
     @Override
     public String toString() {
-        return "계좌 { 은행명: " + bankName+ ", 이름: " + customerName
+        return "계좌 - { 은행명: " + bankName+ ", 이름: " + customerName
                 + ", 계좌번호: " + customerAccount.substring(0, 4) + "-" + customerAccount.substring(4, 8) + "-" + customerAccount.substring(8, 12)
-                + ", 계좌잔고: " + customerBalance +" "+ check +"시간 :"+time.format(DateTimeFormatter.ofPattern("yyyy-MM-dd/HH시mm분ss초"))+" }";
+                + ", 계좌잔고: " + customerBalance +" "+ check +"시간: "+time.format(DateTimeFormatter.ofPattern("yyyy-MM-dd/HH시mm분ss초"))+" }";
     }
 }
 

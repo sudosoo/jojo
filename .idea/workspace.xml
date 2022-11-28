@@ -4,13 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9add572e-1dcc-4e90-ae4a-d92fbe14881c" name="Changes" comment="11.25">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Customer/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/bank/Bank.java" afterDir="false" />
+    <list default="true" id="9add572e-1dcc-4e90-ae4a-d92fbe14881c" name="Changes" comment="11.25 final">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Customer/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Customer/Customer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Customer/Log.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Customer/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Customer/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Customer/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/bank/Bank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bank/Bank.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +80,7 @@
       <recent name="$PROJECT_DIR$/src/main/java/Customer" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Cmain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Customer.Cmain" />
       <module name="bank.test" />
@@ -137,8 +134,10 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="17" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="Customer.Main" />
-      <module name="bank.test" />
+      <module name="bank.main" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Customer.*" />
@@ -151,8 +150,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Cmain" />
         <item itemvalue="Application.Customer.Customer" />
         <item itemvalue="Application.Customer" />
@@ -176,7 +175,11 @@
       <workItem from="1669284129339" duration="7869000" />
       <workItem from="1669307740437" duration="1239000" />
       <workItem from="1669336989164" duration="34815000" />
-      <workItem from="1669374328283" duration="6562000" />
+      <workItem from="1669374328283" duration="6595000" />
+      <workItem from="1669389121009" duration="1236000" />
+      <workItem from="1669539955812" duration="906000" />
+      <workItem from="1669556999189" duration="1456000" />
+      <workItem from="1669612213723" duration="14881000" />
     </task>
     <task id="LOCAL-00001" summary="customer 생성">
       <created>1669262712475</created>
@@ -269,7 +272,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669361344746</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="11.25 final">
+      <created>1669380935232</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1669380935232</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -296,7 +306,8 @@
     <MESSAGE value="break patch" />
     <MESSAGE value="11.25 update" />
     <MESSAGE value="11.25 error update" />
-    <option name="LAST_COMMIT_MESSAGE" value="11.25 error update" />
+    <MESSAGE value="11.25 final" />
+    <option name="LAST_COMMIT_MESSAGE" value="11.25 final" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
