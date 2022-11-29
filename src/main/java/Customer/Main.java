@@ -18,7 +18,7 @@ public class Main {
             System.out.println("❗  1.Bank  2.Customer  ❗");
             System.out.println(" --------------------------");
             try {
-                int choseMenu = 0;
+                int choseMenu;
                 choseMenu = sc.nextInt();
               a:switch (choseMenu){
                 case 1 :
